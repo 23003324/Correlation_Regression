@@ -20,6 +20,11 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Program :
+NAME: HARITHA RAMESH
+
+REGISTER NUMBER: 212223100011
+
+DEPARTMENT: CSE(CYBER SECURITY)
 
 ```
 import numpy as np
